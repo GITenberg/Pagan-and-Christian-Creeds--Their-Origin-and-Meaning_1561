@@ -1,0 +1,35 @@
+_repo: Pagan-and-Christian-Creeds--Their-Origin-and-Meaning_1561
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carpenter, Edward
+    birthdate: 1844
+    deathdate: 1929
+    gutenberg_agent_id: '657'
+    url: http://www.gutenberg.org/2009/agents/657
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Carpenter
+description: Go to top; I. Introductory; II. Solar Myths and Christian Festivals;
+  III. The Symbolism of the Zodiac; IV. Totem-Sacraments and Eucharists; V. Food and
+  Vegetation Magic; VI. Magicians, Kings and Gods; VII. Rites of Expiation and Redemption;
+  VIII. Pagan Initiations and the Second Birth; IX. Myth of the Golden Age; X. The
+  Saviour-God and the Virgin-Mother; XI. Ritual Dancing; XII. The Sex-Taboo; XIII.
+  The Genesis of Christianity; XIV. The Meaning of It All; XV. The Ancient Mysteries;
+  XVI. The Exodus of Christianity; XVII. Conclusion; Appendix; Edward Carpenter Biography.
+gutenberg_bookshelf: Paganism
+gutenberg_issued: '1998-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion'
+- !lcsh 'Christianity and other religions'
+- !lcc 'BL'
+- !lcsh 'Paganism'
+- !lcsh 'Mythology'
+- GITenberg
+title: 'Pagan and Christian Creeds: Their Origin and Meaning'
+url: http://www.gutenberg.org/ebooks/1561
